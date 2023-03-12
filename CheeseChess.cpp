@@ -7,7 +7,6 @@ int main()
 {
     std::cout << "Cheesy Chess\n";
 
-
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
